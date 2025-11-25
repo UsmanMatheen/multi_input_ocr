@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+pytesseract
+easyocr
+opencv-python
+Pillow
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+pyyaml

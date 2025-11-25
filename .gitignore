@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual env
+.venv/
+
+# VS Code
+.vscode/
+
+# Data
+data/raw/
+data/processed/
+data/ocr/
+
+# Experiments / logs
+experiments/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
