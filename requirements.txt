@@ -2,7 +2,7 @@ torch
 torchvision
 torchaudio
 transformers
-datasets
+datasets<4.0.0
 pytesseract
 easyocr
 opencv-python
